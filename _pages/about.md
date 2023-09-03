@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br />
-I am a Ph.D. candidate in economics at [Penn State](https://econ.la.psu.edu). My research interests are in empirical industrial organization. Recently, I have worked on research on the estimation of discrete choice demand models and applications relating to the US automobile market. If you want, you can view my most current CV here [<i class="fa-regular fa-file-pdf fa-lg" style="color: #b509ac;"></i>](files/cv.pdf).
+I am a Ph.D. candidate in economics at [Penn State](https://econ.la.psu.edu). My research interests are in empirical industrial organization. Recently, I have worked on research on the estimation of discrete choice demand models and applications relating to the US automobile market. If you want to, you can view my CV here [<i class="fa-regular fa-file-pdf fa-lg" style="color: #b509ac;"></i>](files/cv.pdf).
 
 <br />
 I am on the 2023-24 economics job market. Check back for a draft of my job market paper soon!
