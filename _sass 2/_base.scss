@@ -118,7 +118,7 @@ blockquote {
   width: 100%;
 
   .address {
-    margin-bottom: 35px;
+    margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
 
@@ -130,16 +130,16 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 2rem;
+  margin-left: 1rem;
 }
 
 .profile.float-left {
-  margin-right: 2rem;
+  margin-right: 1rem;
 }
 
 @media (min-width: 576px) {
   .profile {
-    width: 25%;
+    width: 30%;
 
     .address {
       p {
@@ -305,7 +305,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 2rem;
+    font-size: 4rem;
 
     a {
       i::before {
