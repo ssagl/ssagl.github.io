@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 I am a Ph.D. candidate in economics at [Penn State](https://econ.la.psu.edu). My research interests are in industrial organization and applied microeconomics. Recently, I have worked on research on the estimation of discrete choice demand models and applications relating to the US automobile market. If you want to, you can view my CV here [<i class="fa-regular fa-file-pdf fa-lg" style="color: #b509ac;"></i>](files/cv.pdf).
 
 <br />
-I am on the job market for the 2023-2024 academic year. Check back soon for a draft of my job market paper <i class="fa-solid fa-truck-pickup" style="color: #b509ac;"></i>!
+I am on the job market for the 2023--24 academic year. Check back soon for a draft of my job market paper <i class="fa-solid fa-truck-pickup" style="color: #b509ac;"></i>!
 <br />
 <br />
   
