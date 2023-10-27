@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /$
-Allow: /papers/
 Disallow: /
 
 Sitemap: https://ssagl.github.io//sitemap.xml
