@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br />
-Welcome to my website! I am a Ph.D. candidate in economics at [Penn State](https://econ.la.psu.edu). My research interests are in industrial organization and applied microeconomics. In my current research, I focus on the estimation of discrete choice demand models and the welfare effects of price discrimination/personalized pricing.
+Welcome to my website! I am a Ph.D. candidate in economics at [Penn State](https://econ.la.psu.edu). 
+
+My research interests are in industrial organization and applied microeconomics. In my current research, I focus on the estimation of discrete choice demand models and the welfare effects of price discrimination/personalized pricing.
 
 <br /> 
 <br />
