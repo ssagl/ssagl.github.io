@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, Department of Economics, The Pennsylvania State University
+subtitle: Ph.D. Candidate | Department of Economics | The Pennsylvania State University
 
 profile:
   align: right
@@ -19,6 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br />
+
 Welcome to my website! I am a Ph.D. candidate in economics at [Penn State](https://econ.la.psu.edu). Later this year, I will join the [Kelley School of Business at Indiana University](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.html) as an Assistant Professor of Business Economics and Public Policy. 
 
 My research interests are in industrial organization and applied microeconomics. In my current research, I focus on the estimation of discrete choice demand models and the welfare effects of price discrimination/personalized pricing.
