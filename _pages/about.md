@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I am an an Assistant Professor of Business Economics and Public Policy at [Kelley School of Business at Indiana University](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.html). 
+Welcome to my website! I am an an Assistant Professor of Business Economics and Public Policy at the [Kelley School of Business, Indiana University](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.html). 
 
 My research interests are in industrial organization and applied microeconomics. In my current research, I focus on the estimation of discrete choice demand models and the welfare effects of price discrimination/personalized pricing.
 
