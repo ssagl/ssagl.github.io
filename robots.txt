@@ -2,8 +2,8 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Allow: /$
-Allow: /papers/
-Disallow: /
+Disallow: /files/
+Disallow: /news/
+Disallow: /cv/
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
