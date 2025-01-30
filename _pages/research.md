@@ -24,7 +24,8 @@ social: false  # includes social icons at the bottom of the page
 ### Working Papers
 
 <br />
-[<b>Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data</b>](https://paulgrieco.github.io/files/preprint/like-blp.pdf), 2025. 
+[<b>Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data</b>](https://paulgrieco.github.io/files/preprint/like-blp.pdf), 2025.
+ 
 with Paul Grieco, Charles Murry, and Joris Pinkse  
 <b>Revised and resubmitted to _Econometrica_</b> 
 * We propose a likelihood-based estimator with exogeneity restrictions
