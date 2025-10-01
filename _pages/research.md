@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 <br />
 [<b>Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data</b>](https://paulgrieco.github.io/files/preprint/like-blp.pdf), 2025.<br>
 with Paul Grieco, Charles Murry, and Joris Pinkse  
-<b>Revised and resubmitted to _Econometrica_</b> 
+<b>Revisions requested at _Econometrica_</b> 
 * We propose a likelihood-based estimator with exogeneity restrictions
 for BLP-type demand models combining microdata, product shares, and prices.  
 * Our estimator is implemented in the easy-to-use companion Julia package [Grumps.jl](https://nittanylion.github.io/Grumps.jl/dev/). Install it by typing `using Pkg; Pkg.add("Grumps")` in the Julia REPL.
