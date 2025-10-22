@@ -39,5 +39,5 @@ for BLP-type demand models combining microdata, product shares, and prices.
 ### Works in Progress
 
 <br />
-[<b>Breaking Bad Opiod Sorting</b>] <br>
+[<b>Breaking Bad Opiod Sorting</b>](https://ssagl.github.io/research/) <br>
 with Han Ng, and Jia Xiang

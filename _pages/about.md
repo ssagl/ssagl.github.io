@@ -22,5 +22,5 @@ social: true  # includes social icons at the bottom of the page
 <br />
 Welcome to my website! I am an Assistant Professor of Business Economics and Public Policy at the [Kelley School of Business at Indiana University](https://kelley.iu.edu/faculty-research/departments/business-economics-public-policy/index.html). 
 
-My research interests are in industrial organization and applied microeconomics. In my recent research, I have worked on the estimation of discrete choice demand models, and personalized pricing in the US automobile market. 
+My research interests are in industrial organization and applied microeconomics. In my recent research, I have worked on the estimation of discrete choice demand models, health economics, and personalized pricing. 
 
