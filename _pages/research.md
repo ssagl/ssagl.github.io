@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 ### Working Papers
 
 <br />
-[<b>Breaking Bad Sorting</b>](../papers/BBS.pdf), 2026. <br>
+[<b>Breaking Bad Sorting</b>](../research/), 2026. <br>
 with Han Ng, and Jia Xiang
 * <b>Abstract:</b> We investigate how consumer sorting contributes to outcome differences and its implications for expert-targeted policies. Using employer-sponsored insurance claims on opioid prescribing for chronic pain, we show that patient sorting explains more than twice as much of the prescribing variation as physicians' prescribing propensity, and stems almost entirely from preferences exceeding CDC guidelines, which we term "bad sorting." We develop and estimate an equilibrium model of patients' physician choice and physicians' prescribing. Counterfactuals show that patient resorting attenuates the effects of policies targeting top prescribers. We propose expert-targeted policies that break bad sorting, eliminating sorting on preferences exceeding guidelines while preserving care for patients with clinical needs.
 
